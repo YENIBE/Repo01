@@ -6,6 +6,6 @@ Como subir cambios a git
 
 ![Captura del repositorio](./image.png)
 
-<h5>Apuntes</h5>
-<h6>Terminal</h6>
+<h1>Apuntes</h1>
+<h2>Terminal</h2>
 Cuando poones en el terminal .. significa volver a la carpeta anterior 
