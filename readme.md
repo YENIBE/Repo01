@@ -5,6 +5,7 @@ Como subir cambios a git
 3. git push origin main 
 
 <h3>SIEMPRE HACER git pull ANTES DE MODIFICAR NADA </h3>
+
 ![Captura del repositorio](./image.png)
 
 <h1>Apuntes</h1>
